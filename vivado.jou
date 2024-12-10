@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Dec 11 00:19:18 2024
+# Process ID: 23440
+# Current directory: D:/Sakana/SProj/ACZ7015/source_code/ch17_ACZ7015_AXI_DMA
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent34632 D:\Sakana\SProj\ACZ7015\source_code\ch17_ACZ7015_AXI_DMA\AXI_DMA.xpr
+# Log file: D:/Sakana/SProj/ACZ7015/source_code/ch17_ACZ7015_AXI_DMA/vivado.log
+# Journal file: D:/Sakana/SProj/ACZ7015/source_code/ch17_ACZ7015_AXI_DMA\vivado.jou
+#-----------------------------------------------------------
+start_gui

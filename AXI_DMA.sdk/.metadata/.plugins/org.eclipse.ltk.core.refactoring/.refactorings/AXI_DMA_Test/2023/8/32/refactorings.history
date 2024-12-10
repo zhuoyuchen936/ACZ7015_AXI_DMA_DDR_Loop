@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;AXI_DMA_Test/ACZ702_Lib&apos; to &apos;ACZ7015_Lib&apos;" description="Rename resource &apos;ACZ702_Lib&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="ACZ702_Lib" name="ACZ7015_Lib" stamp="1691476326167" updateReferences="true"/>
+</session>
